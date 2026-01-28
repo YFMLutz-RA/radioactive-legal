@@ -46,8 +46,7 @@ Participating Stations are independent operators. RadioActive does not control a
 
 The Service may integrate third-party services or display third-party content. These services operate under their own privacy policies and are not controlled by RadioActive. Participating Stations may also maintain their own privacy policies governing their independent use of data.
 
-Information about commonly used third-party services, and available links to their privacy policies, may be found at:  
-https://radioactiveexpectations.com/third-party
+Information about commonly used third-party services, and available links to their privacy policies, may be found at: https://github.com/YFMLutz-RA/radioactive-legal/blob/main/docs/third-party.md
 
 ## 6. External Links and Embedded Content
 
