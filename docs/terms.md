@@ -59,7 +59,7 @@ You agree not to:
 
 ## 8. Misuse and Interference with the Service
 
-You agree not to misuse the Service or attempt to interfere with its operation. Prohibited activities include, but are not limited to:
+You agree not to misuse the Service or attempt to interfere with its operation. You are responsible for activity conducted through devices or accounts under your control. Prohibited activities include, but are not limited to:
 
 - Attempting to disrupt, overload, or degrade the performance or availability of the Service
 - Using automated systems, scripts, bots, or replay mechanisms to generate artificial traffic, requests, or interactions
