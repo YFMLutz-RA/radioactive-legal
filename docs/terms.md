@@ -40,7 +40,7 @@ The Service does not currently require in-app purchases to access core functiona
 
 Some features of the Service may require you to create an account. You are responsible for maintaining the confidentiality of your account credentials and for all activity that occurs under your account.
 
-You retain ownership of any user-generated content you submit through the Service, including text, audio recordings, or other materials. Users should submit only content they have the right to share. By submitting content through the Service, you grant RadioActive a non-exclusive, royalty-free license to host, store, process, transmit, and share such content with the applicable Station solely for the purpose of operating, delivering, and improving the Service.
+You retain ownership of any user-generated content you submit through the Service, including text, audio recordings, or other materials. Users should submit only content they have the right to share. By submitting content through the Service, you grant RadioActive a non-exclusive, royalty-free license to host, store, process, transmit, and share such content with the applicable Station for the purpose of operating, delivering, and improving the Service, including moderating, displaying, and distributing such content within the Service.
 
 RadioActive does not control how a Station may review, select, or use user-submitted content. Any use of such content by a Station is determined solely by the Station and may be subject to station-specific policies or permissions.
 
@@ -51,15 +51,20 @@ The Service may include links to external websites or content displayed through 
 ## 7. Acceptable Use
 
 You agree not to:
+- Use the Service for unlawful, harmful, or abusive purposes
+- Attempt to gain unauthorized access to the Service or related systems
+- Interfere with or disrupt the operation, availability, or security of the Service
+- Circumvent technical limitations, rate limits, or access controls
+- Use automated systems, scripts, bots, replay mechanisms, or similar methods to generate artificial traffic, requests, or interactions
+- Attempt to reverse engineer, decompile, or extract source code or proprietary functionality from the Service
+- Use the Service in a manner intended to cause excessive operational costs, service interruptions, or denial-of-service conditions
+- Use another user’s account without authorization
 
-- Use the Service for unlawful, harmful, or abusive purposes  
-- Attempt to gain unauthorized access to the Service or related systems  
-- Interfere with or disrupt the operation or security of the Service  
-- Circumvent technical limitations or access controls  
+You are responsible for activity conducted through accounts or devices under your control.
 
 ## 8. Misuse and Interference with the Service
 
-You agree not to misuse the Service or attempt to interfere with its operation. You are responsible for activity conducted through devices or accounts under your control. Prohibited activities include, but are not limited to:
+You agree not to misuse the Service or attempt to interfere with its operation. You are responsible for activity conducted through accounts or devices under your control. Prohibited activities include, but are not limited to:
 
 - Attempting to disrupt, overload, or degrade the performance or availability of the Service
 - Using automated systems, scripts, bots, or replay mechanisms to generate artificial traffic, requests, or interactions
@@ -73,7 +78,7 @@ RadioActive may suspend or terminate access to the Service, block devices or acc
 
 ## 9. Suspension and Termination
 
-RadioActive may suspend or terminate access to the Service where reasonably necessary to protect the Service, comply with legal obligations, or enforce these Terms.
+RadioActive may suspend or terminate access to the Service if we reasonably believe it is necessary to protect the Service, comply with legal obligations, or enforce these Terms. RadioActive reserves the right to block accounts, devices, or network sources associated with misuse of the Service and to pursue available legal remedies for damages resulting from such misuse.
 
 ## 10. Disclaimer of Warranties
 
@@ -81,7 +86,7 @@ The Service is provided on an “as is” and “as available” basis, without 
 
 ## 11. Limitation of Liability
 
-To the maximum extent permitted by law, RadioActive shall not be liable for any indirect, incidental, consequential, or special damages arising out of or related to your use of the Service.
+To the maximum extent permitted by law, RadioActive shall not be liable for any indirect, incidental, consequential, or special damages arising out of or related to your use of the Service, including loss of data, service interruption, or inability to access content.
 
 ## 12. Governing Law
 
@@ -91,7 +96,11 @@ These Terms are governed by the laws of the State of Florida, without regard to 
 
 Any legal action or proceeding arising out of or relating to these Terms or your use of the Service shall be brought exclusively in the state or federal courts located in Hillsborough County, Florida, and you consent to the personal jurisdiction of such courts.
 
-## 14. Contact Information
+## 15. Changes to These Terms
+
+RadioActive may update these Terms from time to time. Updated Terms become effective when posted within the Service or on our website, as indicated by the Effective Date. Continued use of the Service after updates constitutes acceptance of the revised Terms.
+
+## 16. Contact Information
 
 **RadioActive Expectations LLC**  
 Email: app@radioactiveexpectations.com
