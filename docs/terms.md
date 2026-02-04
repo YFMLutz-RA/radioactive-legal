@@ -1,5 +1,5 @@
 # Terms of Service  
-**Effective Date:** January 28, 2026
+**Effective Date:** February 4, 2026
 
 These Terms of Service (“Terms”) govern your access to and use of a mobile application branded and licensed by an independently operated entity that provides audio streams, content, or related services through the app (“Stations”).
 
@@ -57,27 +57,41 @@ You agree not to:
 - Interfere with or disrupt the operation or security of the Service  
 - Circumvent technical limitations or access controls  
 
-## 8. Suspension and Termination
+## 8. Misuse and Interference with the Service
+
+You agree not to misuse the Service or attempt to interfere with its operation. Prohibited activities include, but are not limited to:
+
+- Attempting to disrupt, overload, or degrade the performance or availability of the Service
+- Using automated systems, scripts, bots, or replay mechanisms to generate artificial traffic, requests, or interactions
+- Attempting to circumvent usage limits, security controls, or access restrictions
+- Reverse engineering, decompiling, or attempting to extract source code or proprietary functionality from the Service
+- Using the Service in a manner intended to cause excessive operational costs, service interruptions, or denial of service
+- Attempting to access accounts, systems, or data without authorization
+
+RadioActive may suspend or terminate access to the Service, block devices or accounts, and take other reasonable measures in response to suspected misuse or interference. RadioActive reserves the right to pursue available legal remedies for damages caused by misuse of the Service.
+
+
+## 9. Suspension and Termination
 
 RadioActive may suspend or terminate access to the Service where reasonably necessary to protect the Service, comply with legal obligations, or enforce these Terms.
 
-## 9. Disclaimer of Warranties
+## 10. Disclaimer of Warranties
 
 The Service is provided on an “as is” and “as available” basis, without warranties of any kind, whether express or implied.
 
-## 10. Limitation of Liability
+## 11. Limitation of Liability
 
 To the maximum extent permitted by law, RadioActive shall not be liable for any indirect, incidental, consequential, or special damages arising out of or related to your use of the Service.
 
-## 11. Governing Law
+## 12. Governing Law
 
 These Terms are governed by the laws of the State of Florida, without regard to conflict-of-law principles.
 
-## 12. Venue
+## 13. Venue
 
 Any legal action or proceeding arising out of or relating to these Terms or your use of the Service shall be brought exclusively in the state or federal courts located in Hillsborough County, Florida, and you consent to the personal jurisdiction of such courts.
 
-## 13. Contact Information
+## 14. Contact Information
 
 **RadioActive Expectations LLC**  
 Email: app@radioactiveexpectations.com
