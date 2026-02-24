@@ -1,5 +1,5 @@
 # Terms of Service  
-**Effective Date:** February 4, 2026
+**Effective Date:** February 24, 2026
 
 These Terms of Service (“Terms”) govern your access to and use of a mobile application branded and licensed by an independently operated entity that provides audio streams, content, or related services through the app (“Stations”).
 
@@ -31,6 +31,8 @@ Optional Features may include participation opportunities, promotions, or reward
 - May be introduced, modified, suspended, or discontinued at any time  
 - Have no cash value and are not redeemable for real currency  
 - Participation is optional and not required to use the Service  
+
+The Service may include weather information, public safety alerts, or community updates sourced from third parties, Stations, or publicly available government data feeds. Such information is provided for convenience only. The Service is not intended to serve as a primary or official emergency notification system. Users should rely on official government agencies, emergency management authorities, and local public safety channels for critical or time-sensitive information. RadioActive does not guarantee the accuracy, completeness, or timeliness of emergency-related information displayed within the Service.
 
 ## 4. In-App Purchases
 
