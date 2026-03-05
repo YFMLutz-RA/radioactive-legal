@@ -9,6 +9,8 @@ The mobile application branded by a participating Station is referred to as the 
 
 The Station App, together with any related websites and services, is collectively referred to as the **“Service.”**
 
+In these Terms, “you,” "your," or “user” refers to the individual who accesses or uses the Service.
+
 These Terms are a binding legal agreement between you and RadioActive, including its Governing Law and Dispute Resolution provisions, which include an arbitration agreement. By creating an account or using our Service, you confirm that you accept these Terms. If you do not accept the Terms, you have no right to use (and may not use) the Service. These Terms, including the Dispute Resolution provisions, are available in the Station App settings under the “Legal” heading. 
 
 ## 1. Eligibility
