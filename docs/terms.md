@@ -30,6 +30,12 @@ Content accessible through the Station App may be provided by the Station, by Ra
 
 RadioActive provides the underlying technology and may also offer managed or commissioned content, including standardized content modules or custom content created at the request of a Station. Stations retain discretion over whether such content is included in their Station App. RadioActive does not control, endorse, or guarantee the accuracy, completeness, or appropriateness of Station-provided or third-party content.
 
+Each Station is solely responsible for all content transmitted, displayed, or made available through its Station App, including audio programming, advertisements, promotions, contests, and user interactions.
+
+RadioActive provides the technology platform used to deliver Station Apps but does not monitor, control, endorse, or review Station content prior to its distribution through the Platform and assumes no responsibility for such content.
+
+Stations are also solely responsible for the operation of promotions, contests, prizes, or sponsor offers conducted through the Station App, including prize fulfillment, compliance with applicable laws, and honoring offers made to listeners.
+
 ## 3. Station Responsibility for Content
 
 Each Station is solely responsible for the audio streams, programming, advertisements, promotions, and other content that it elects to broadcast or make available through the Station App. RadioActive provides the underlying technology platform used to deliver such content but does not create, control, or review Station programming.
